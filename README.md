@@ -1,7 +1,7 @@
 # Road-accident-report-analysis
 Road accident analysis using Excel, SQL, and Power BI: Data extraction, transformation, analysis, and visualization for informed road safety decisions.
 
-**DESCRIPTION** :
+##DESCRIPTION :
 
 This road accident report analysis presents a comprehensive overview of a data-driven initiative aimed at understanding, mitigating, and improving road safety. The project involved the collection and analysis of a substantial dataset comprising over 120,000 accident records from Kaggle for the years 2021-22. Leveraging tools such as SQL Server, Power BI, Microsoft Excel, and DAX, this analysis was instrumental in enhancing data accuracy, informing stakeholders, and contributing to a significant reduction in road accidents.
 
